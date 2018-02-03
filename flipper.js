@@ -15,7 +15,7 @@
 
   Node >= v6.9.4 required
 
-  from command line run:
+  from the command line run:
   node flipper.js
 
 */
